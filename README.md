@@ -459,7 +459,6 @@ The model is implemented as a scikit-learn `Pipeline`.
        0 / 1             P(y=1)
 ```
 
-![Model architecture](images/10_model_architecture.png)
 
 ### Logistic Regression configuration
 
